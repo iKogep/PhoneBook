@@ -1,0 +1,9 @@
+D:\UserX\Documents\Visual Studio 2010\Projects\PhoneBook\GlobalProject-Kadr\obj\x86\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+D:\UserX\Documents\Visual Studio 2010\Projects\PhoneBook\GlobalProject-Kadr\obj\x86\Debug\GlobalProject_Kadr.MainForm.resources
+D:\UserX\Documents\Visual Studio 2010\Projects\PhoneBook\GlobalProject-Kadr\obj\x86\Debug\GlobalProject_Kadr.Form2.resources
+D:\UserX\Documents\Visual Studio 2010\Projects\PhoneBook\GlobalProject-Kadr\obj\x86\Debug\PhoneBook.csproj.GenerateResource.Cache
+D:\UserX\Documents\Visual Studio 2010\Projects\PhoneBook\GlobalProject-Kadr\bin\Debug\PhoneBook.exe
+D:\UserX\Documents\Visual Studio 2010\Projects\PhoneBook\GlobalProject-Kadr\bin\Debug\PhoneBook.pdb
+D:\UserX\Documents\Visual Studio 2010\Projects\PhoneBook\GlobalProject-Kadr\obj\x86\Debug\PhoneBook.Properties.Resources.resources
+D:\UserX\Documents\Visual Studio 2010\Projects\PhoneBook\GlobalProject-Kadr\obj\x86\Debug\PhoneBook.exe
+D:\UserX\Documents\Visual Studio 2010\Projects\PhoneBook\GlobalProject-Kadr\obj\x86\Debug\PhoneBook.pdb
